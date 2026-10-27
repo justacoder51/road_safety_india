@@ -1,0 +1,74 @@
+{
+  "date": "27 October 2026",
+  "base": "http://127.0.0.1:4173/road_safety_india",
+  "checks": [
+    {
+      "check": "Production index served at deployment base: http://127.0.0.1:4173/road_safety_india/",
+      "status": "Passed"
+    },
+    {
+      "check": "Entry asset served: /road_safety_india/assets/index-C9lYyg3Z.js",
+      "status": "Passed"
+    },
+    {
+      "check": "Entry asset served: /road_safety_india/assets/index-dcmwzXUl.css",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: india-statistics",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: road-user-data",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: road-type-data",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: international-policies",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: indian-policies",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: action-plan",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: sources",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: definitions",
+      "status": "Passed"
+    },
+    {
+      "check": "Production JSON matches approved local file: report-manifest",
+      "status": "Passed"
+    },
+    {
+      "check": "Supplied document served: /documents/road-accidents-in-india-2024.pdf",
+      "status": "Passed"
+    },
+    {
+      "check": "Supplied document served: /documents/road-safety.pdf",
+      "status": "Passed"
+    },
+    {
+      "check": "Supplied document served: /documents/irtad-road-safety-annual-report-2025.pdf",
+      "status": "Passed"
+    },
+    {
+      "check": "Supplied document served: /documents/research-structure.md",
+      "status": "Passed"
+    },
+    {
+      "check": "Downloadable report matches bundled source",
+      "status": "Passed"
+    }
+  ]
+}

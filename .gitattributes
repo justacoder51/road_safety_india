@@ -1,0 +1,4 @@
+# Preserve the approved report's exact bytes for its SHA-256 provenance check.
+public/documents/research-report.md -text
+*.pdf -text
+*.png -text

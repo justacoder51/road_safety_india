@@ -1,0 +1,5 @@
+import Icon from './Icon';
+// Abstract placeholder: no screenshot, photograph or external image is embedded.
+export default function RoadScene({ variant = 'city', compact = false }) {
+  return <div className={`road-scene ${variant} ${compact ? 'compact' : ''}`} aria-hidden="true"><div className="scene-sun" /><div className="scene-skyline">{Array.from({ length: 9 }, (_, i) => <span key={i} style={{ '--i': i }} />)}</div><div className="scene-hill" /><div className="scene-road"><span className="lane lane-one" /><span className="lane lane-two" /><span className="lane lane-three" /></div><div className="scene-trees"><i /><i /><i /><i /></div><span className="scene-vehicle vehicle-one"><Icon name="Car" size={40} /></span><span className="scene-vehicle vehicle-two"><Icon name="Bike" size={36} /></span><div className="scene-crossing" /><span className="scene-sign"><Icon name="Footprints" size={25} /></span>{!compact && <div className="scene-caption"><span className="tiny-line" />SAFE PEOPLE. SAFER ROADS.<span className="scene-caption-small">A future worth designing for.</span></div>}</div>;
+}

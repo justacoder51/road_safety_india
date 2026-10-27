@@ -1,0 +1,5 @@
+{
+  "notes": "The missing-data check intentionally caused a development resource error; production errors are filtered by production URL.",
+  "logs": [],
+  "productionErrors": []
+}

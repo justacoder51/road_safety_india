@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "unit": "People killed",
+  "note": "National Highways include expressways. Published shares are rounded.",
+  "reportSection": "2.3",
+  "sourceIds": [
+    "s1"
+  ],
+  "items": [
+    {
+      "name": "National Highways",
+      "deaths": 64772,
+      "share": 36.6,
+      "crashes": 150958,
+      "color": "#006575"
+    },
+    {
+      "name": "State Highways",
+      "deaths": 39277,
+      "share": 22.2,
+      "crashes": 103538,
+      "color": "#ad7717"
+    },
+    {
+      "name": "Other roads",
+      "deaths": 73126,
+      "share": 41.3,
+      "crashes": 233211,
+      "color": "#51697f"
+    }
+  ]
+}

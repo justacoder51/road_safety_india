@@ -1,0 +1,37 @@
+[
+  {
+    "page": "Overview",
+    "url": "http://127.0.0.1:4173/road_safety_india/#/",
+    "refreshPassed": true
+  },
+  {
+    "page": "India Data",
+    "url": "http://127.0.0.1:4173/road_safety_india/#/india-data",
+    "refreshPassed": true
+  },
+  {
+    "page": "Global Lessons",
+    "url": "http://127.0.0.1:4173/road_safety_india/#/global-lessons",
+    "refreshPassed": true
+  },
+  {
+    "page": "Action Plan",
+    "url": "http://127.0.0.1:4173/road_safety_india/#/action-plan",
+    "refreshPassed": true
+  },
+  {
+    "page": "Sources",
+    "url": "http://127.0.0.1:4173/road_safety_india/#/sources",
+    "refreshPassed": true
+  },
+  {
+    "check": "Section link stays on India Data",
+    "passed": true,
+    "url": "http://127.0.0.1:4173/road_safety_india/#/india-data#road-users"
+  },
+  {
+    "check": "Citation opens Sources target",
+    "url": "http://127.0.0.1:4173/road_safety_india/#/sources#s1",
+    "passed": true
+  }
+]

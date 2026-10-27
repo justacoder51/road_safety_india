@@ -1,0 +1,94 @@
+[
+  {
+    "check": "Mobile menu opens with keyboard Return",
+    "passed": true
+  },
+  {
+    "check": "Mobile navigation changes page and closes menu",
+    "passed": true
+  },
+  {
+    "check": "Policy disclosure 1 opens with keyboard",
+    "passed": true
+  },
+  {
+    "check": "Policy disclosure 2 opens with keyboard",
+    "passed": true
+  },
+  {
+    "check": "Policy disclosure 3 opens with keyboard",
+    "passed": true
+  },
+  {
+    "check": "Policy disclosure 4 opens with keyboard",
+    "passed": true
+  },
+  {
+    "check": "Policy disclosure 5 opens with keyboard",
+    "passed": true
+  },
+  {
+    "check": "Policy disclosure 6 opens with keyboard",
+    "passed": true
+  },
+  {
+    "check": "Policy citation routes to its source entry",
+    "passed": true
+  },
+  {
+    "check": "Source search empty state",
+    "passed": true
+  },
+  {
+    "check": "Reset restores 21 source entries",
+    "passed": true
+  },
+  {
+    "check": "International filter shows eight references",
+    "passed": true
+  },
+  {
+    "check": "Keyword search returns matching entries",
+    "passed": true
+  },
+  {
+    "check": "All three accessible chart tables open by keyboard",
+    "passed": true
+  },
+  {
+    "check": "Missing local dataset displays reload error state",
+    "passed": true
+  },
+  {
+    "check": "Reload recovers after dataset restoration",
+    "passed": true
+  },
+  {
+    "check": "Overview primary CTA opens India Data",
+    "passed": true
+  },
+  {
+    "check": "Browser Back and Forward preserve routing",
+    "passed": true
+  },
+  {
+    "check": "Production direct-route refresh renders three charts",
+    "passed": true
+  },
+  {
+    "check": "Keyboard skip link focuses main",
+    "passed": true
+  },
+  {
+    "check": "Roadmap opens medium-term anchor on Action Plan",
+    "passed": true
+  },
+  {
+    "check": "Mobile Escape closes navigation and returns focus",
+    "passed": true
+  },
+  {
+    "check": "Unmatched route renders useful not-found page",
+    "passed": true
+  }
+]

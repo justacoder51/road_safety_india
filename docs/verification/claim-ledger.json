@@ -1,0 +1,326 @@
+[
+  {
+    "label": "Reported crashes",
+    "value": 487707,
+    "year": 2024,
+    "unit": "People / reported crashes",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "People killed",
+    "value": 177175,
+    "year": 2024,
+    "unit": "People / reported crashes",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "People injured",
+    "value": 471441,
+    "year": 2024,
+    "unit": "People / reported crashes",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "Reported fatalities 2018",
+    "value": 157593,
+    "year": 2018,
+    "unit": "People killed",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1",
+      "s8"
+    ]
+  },
+  {
+    "label": "Reported fatalities 2019",
+    "value": 158984,
+    "year": 2019,
+    "unit": "People killed",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1",
+      "s8"
+    ]
+  },
+  {
+    "label": "Reported fatalities 2020",
+    "value": 138383,
+    "year": 2020,
+    "unit": "People killed",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1",
+      "s8"
+    ]
+  },
+  {
+    "label": "Reported fatalities 2021",
+    "value": 153972,
+    "year": 2021,
+    "unit": "People killed",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1",
+      "s8"
+    ]
+  },
+  {
+    "label": "Reported fatalities 2022",
+    "value": 168491,
+    "year": 2022,
+    "unit": "People killed",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1",
+      "s8"
+    ]
+  },
+  {
+    "label": "Reported fatalities 2023",
+    "value": 172890,
+    "year": 2023,
+    "unit": "People killed",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1",
+      "s8"
+    ]
+  },
+  {
+    "label": "Reported fatalities 2024",
+    "value": 177175,
+    "year": 2024,
+    "unit": "People killed",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1",
+      "s8"
+    ]
+  },
+  {
+    "label": "Two-wheeler users",
+    "value": 46.2,
+    "year": 2024,
+    "unit": "Percent of fatalities",
+    "reportSection": "2.2",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "Pedestrians",
+    "value": 20.6,
+    "year": 2024,
+    "unit": "Percent of fatalities",
+    "reportSection": "2.2",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "Light-vehicle occupants",
+    "value": 12.4,
+    "year": 2024,
+    "unit": "Percent of fatalities",
+    "reportSection": "2.2",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "National Highways deaths",
+    "value": 64772,
+    "year": 2024,
+    "unit": "People killed",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "National Highways share",
+    "value": 36.6,
+    "year": 2024,
+    "unit": "Percent",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "National Highways crashes",
+    "value": 150958,
+    "year": 2024,
+    "unit": "Reported crashes",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "State Highways deaths",
+    "value": 39277,
+    "year": 2024,
+    "unit": "People killed",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "State Highways share",
+    "value": 22.2,
+    "year": 2024,
+    "unit": "Percent",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "State Highways crashes",
+    "value": 103538,
+    "year": 2024,
+    "unit": "Reported crashes",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "Other roads deaths",
+    "value": 73126,
+    "year": 2024,
+    "unit": "People killed",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "Other roads share",
+    "value": 41.3,
+    "year": 2024,
+    "unit": "Percent",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "Other roads crashes",
+    "value": 233211,
+    "year": 2024,
+    "unit": "Reported crashes",
+    "reportSection": "2.3",
+    "sourceIds": [
+      "s1"
+    ]
+  },
+  {
+    "label": "2021 reported",
+    "value": 153972,
+    "year": 2021,
+    "unit": "People",
+    "reportSection": "2.4",
+    "sourceIds": [
+      "s5",
+      "s6"
+    ]
+  },
+  {
+    "label": "2021 estimated",
+    "value": 216618,
+    "year": 2021,
+    "unit": "People",
+    "reportSection": "2.4",
+    "sourceIds": [
+      "s5",
+      "s6"
+    ]
+  },
+  {
+    "label": "2021 lower",
+    "value": 193271,
+    "year": 2021,
+    "unit": "People",
+    "reportSection": "2.4",
+    "sourceIds": [
+      "s5",
+      "s6"
+    ]
+  },
+  {
+    "label": "2021 upper",
+    "value": 239965,
+    "year": 2021,
+    "unit": "People",
+    "reportSection": "2.4",
+    "sourceIds": [
+      "s5",
+      "s6"
+    ]
+  },
+  {
+    "label": "2021 estimatedRate",
+    "value": 15.4,
+    "year": 2021,
+    "unit": "Deaths per 100,000",
+    "reportSection": "2.4",
+    "sourceIds": [
+      "s5",
+      "s6"
+    ]
+  },
+  {
+    "label": "Viet Nam: lower head-injury risk",
+    "value": "16%",
+    "year": "2007–2008 implementation",
+    "unit": "Study percentage",
+    "reportSection": "5.2; 6",
+    "sourceIds": [
+      "s14",
+      "s15"
+    ]
+  },
+  {
+    "label": "Viet Nam: lower road-traffic death risk",
+    "value": "18%",
+    "year": "2007–2008 implementation",
+    "unit": "Study percentage",
+    "reportSection": "5.2; 6",
+    "sourceIds": [
+      "s14",
+      "s15"
+    ]
+  },
+  {
+    "label": "United Kingdom: fewer fatal & serious collisions",
+    "value": "36.4%",
+    "year": "2016 study",
+    "unit": "Study percentage",
+    "reportSection": "5.4; 6",
+    "sourceIds": [
+      "s18"
+    ]
+  },
+  {
+    "label": "United Kingdom: fewer injury collisions",
+    "value": "16%",
+    "year": "2016 study",
+    "unit": "Study percentage",
+    "reportSection": "5.4; 6",
+    "sourceIds": [
+      "s18"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "year": 2024,
+  "method": "MoRTH police-reported",
+  "reportSection": "2.1",
+  "sourceIds": [
+    "s1"
+  ],
+  "kpis": [
+    {
+      "id": "crashes",
+      "value": 487707,
+      "label": "Reported crashes",
+      "icon": "Car",
+      "tone": "amber",
+      "reportSection": "2.1",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "deaths",
+      "value": 177175,
+      "label": "People killed",
+      "icon": "Users",
+      "tone": "coral",
+      "reportSection": "2.1",
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    {
+      "id": "injuries",
+      "value": 471441,
+      "label": "People injured",
+      "icon": "HeartPulse",
+      "tone": "mint",
+      "reportSection": "2.1",
+      "sourceIds": [
+        "s1"
+      ]
+    }
+  ],
+  "trend": [
+    {
+      "year": 2018,
+      "deaths": 157593
+    },
+    {
+      "year": 2019,
+      "deaths": 158984
+    },
+    {
+      "year": 2020,
+      "deaths": 138383
+    },
+    {
+      "year": 2021,
+      "deaths": 153972
+    },
+    {
+      "year": 2022,
+      "deaths": 168491
+    },
+    {
+      "year": 2023,
+      "deaths": 172890
+    },
+    {
+      "year": 2024,
+      "deaths": 177175
+    }
+  ],
+  "trendMeta": {
+    "unit": "People killed",
+    "method": "Police-reported",
+    "note": "The 2020 decline coincided with COVID-19 restrictions and reduced travel. It should not be interpreted as a lasting safety gain.",
+    "reportSection": "2.1",
+    "sourceIds": [
+      "s1",
+      "s8"
+    ]
+  },
+  "burden": {
+    "year": 2021,
+    "reported": 153972,
+    "estimated": 216618,
+    "lower": 193271,
+    "upper": 239965,
+    "estimatedRate": 15.4,
+    "rateUnit": "deaths per 100,000 people",
+    "reportSection": "2.4",
+    "sourceIds": [
+      "s5",
+      "s6"
+    ]
+  },
+  "comparisons": [
+    {
+      "title": "India & Viet Nam",
+      "text": "Substantial motorcycle use makes helmet protection and enforcement relevant. Population, road types, reporting and travel patterns limit simple comparisons."
+    },
+    {
+      "title": "India & Singapore",
+      "text": "Useful lessons in enforcement and data transparency come from a small, highly urbanized setting, unlike many Indian rural and mixed-traffic contexts."
+    },
+    {
+      "title": "Singapore & Viet Nam",
+      "text": "Compare governance and implementation models. A country league table would hide differences in exposure and reporting."
+    }
+  ],
+  "comparisonNote": "The report does not provide a complete, comparable mortality-rate dataset for India, Viet Nam and Singapore. A numerical country ranking would not be supported."
+}

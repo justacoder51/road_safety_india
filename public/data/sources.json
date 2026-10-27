@@ -1,0 +1,191 @@
+[
+  {
+    "id": "s1",
+    "number": 1,
+    "title": "MoRTH · Road Accidents in India 2024",
+    "description": "Ministry of Road Transport and Highways, Government of India. Road Accidents in India 2024. Supplied PDF: road_safety_pdf/road-accidents-in-india-2024.pdf. Primary source for India's 2024 counts and breakdowns in this report. The edition/revision date should be checked on the title and methods pages when the site team publishes the final data tables.",
+    "url": null,
+    "localUrl": "/documents/road-accidents-in-india-2024.pdf",
+    "group": "Supplied materials"
+  },
+  {
+    "id": "s2",
+    "number": 2,
+    "title": "Supplied road safety PDF",
+    "description": "Road safety.pdf. Supplied PDF: road_safety_pdf/road safety.pdf. Supporting road-safety material; verify its publisher, date and scope from its cover and methods before citing individual claims on the public website.",
+    "url": null,
+    "localUrl": "/documents/road-safety.pdf",
+    "group": "Supplied materials"
+  },
+  {
+    "id": "s3",
+    "number": 3,
+    "title": "ITF / OECD · Road Safety Annual Report 2025",
+    "description": "International Transport Forum / OECD, Road Safety Annual Report 2025. Supplied PDF and source URL in website_used.md: https://www.itf-oecd.org/sites/default/files/docs/irtad-road-safety-annual-report-2025.pdf. Use for IRTAD member-country reporting and international context; do not treat India as an IRTAD member or assume all countries' data are directly comparable without checking its coverage and definitions.",
+    "url": "https://www.itf-oecd.org/sites/default/files/docs/irtad-road-safety-annual-report-2025.pdf",
+    "localUrl": "/documents/irtad-road-safety-annual-report-2025.pdf",
+    "group": "Supplied materials"
+  },
+  {
+    "id": "s4",
+    "number": 4,
+    "title": "Supplied research structure",
+    "description": "Source structure and requested links: website_tobeextracted.md.",
+    "url": null,
+    "localUrl": "/documents/research-structure.md",
+    "group": "Supplied materials"
+  },
+  {
+    "id": "s5",
+    "number": 5,
+    "title": "WHO · India road safety country profile",
+    "description": "WHO, Road safety India 2023 country profile (reported and modeled 2021 burden, laws and system indicators): https://www.who.int/publications/m/item/road-safety-ind-2023-country-profile",
+    "url": "https://www.who.int/publications/m/item/road-safety-ind-2023-country-profile",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s6",
+    "number": 6,
+    "title": "WHO · India country profile PDF",
+    "description": "WHO, Global status report on road safety 2023: India country profile PDF: https://cdn.who.int/media/docs/default-source/country-profiles/road-safety/road-safety-2023-ind.pdf",
+    "url": "https://cdn.who.int/media/docs/default-source/country-profiles/road-safety/road-safety-2023-ind.pdf",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s7",
+    "number": 7,
+    "title": "Our World in Data · Deaths from road injuries",
+    "description": "Our World in Data, “Deaths from road injuries” (WHO-based modeled counts; inspect metadata and use same vintage): https://ourworldindata.org/grapher/deaths-from-road-injuries?tab=line&country=IND~SGP~VNM",
+    "url": "https://ourworldindata.org/grapher/deaths-from-road-injuries?tab=line&country=IND~SGP~VNM",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s8",
+    "number": 8,
+    "title": "MoRTH · Road Accidents in India 2023",
+    "description": "MoRTH, Road Accidents in India 2023 (official report; historical trend and methodology context): https://morth.gov.in/backend/documents/uploaded/Road-Accident-in-India-2023-Publications.pdf",
+    "url": "https://morth.gov.in/backend/documents/uploaded/Road-Accident-in-India-2023-Publications.pdf",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s9",
+    "number": 9,
+    "title": "Lok Sabha · Impact of the 2019 amendment",
+    "description": "Government of India, Lok Sabha answer on the 2019 Act's impact (Ministry said no specific study had been conducted): https://sansad.in/getFile/loksabhaquestions/annex/173/AS212.pdf?source=pqals",
+    "url": "https://sansad.in/getFile/loksabhaquestions/annex/173/AS212.pdf?source=pqals",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s10",
+    "number": 10,
+    "title": "Sahu et al. · Autopsy-based study",
+    "description": "Sahu et al. (2021), “Epidemiology and patterns of road traffic fatalities in India pre- and post-motor vehicle (Amendment) act 2019: An autopsy-based study”: https://pmc.ncbi.nlm.nih.gov/articles/PMC8725808/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8725808/",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s11",
+    "number": 11,
+    "title": "Parivahan · eChallan reporting",
+    "description": "Parivahan eChallan report portal: https://echallan.parivahan.nic.in/echallanreport/",
+    "url": "https://echallan.parivahan.nic.in/echallanreport/",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s12",
+    "number": 12,
+    "title": "MoRTH · Road safety framework",
+    "description": "National Road Safety Board / MoRTH framework page: https://roadsafetycommittee.morth.gov.in/nrsb/road-safety.html",
+    "url": "https://roadsafetycommittee.morth.gov.in/nrsb/road-safety.html",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s13",
+    "number": 13,
+    "title": "PIB · Government road safety measures",
+    "description": "Press Information Bureau, government road-safety measures (link listed in requested structure): https://www.pib.gov.in/PressReleasePage.aspx?PRID=2083422",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2083422",
+    "localUrl": null,
+    "group": "Statistics & Indian policy"
+  },
+  {
+    "id": "s14",
+    "number": 14,
+    "title": "Passmore et al. · Viet Nam helmet law",
+    "description": "Passmore et al. (2010), Viet Nam helmet legislation and implementation case study: https://pmc.ncbi.nlm.nih.gov/articles/PMC2947039/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2947039/",
+    "localUrl": null,
+    "group": "International approaches"
+  },
+  {
+    "id": "s15",
+    "number": 15,
+    "title": "Passmore et al. · Hospital evaluation",
+    "description": "Passmore et al. (2010), hospital study of helmet law and head injuries/deaths: https://pubmed.ncbi.nlm.nih.gov/20373241/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20373241/",
+    "localUrl": null,
+    "group": "International approaches"
+  },
+  {
+    "id": "s16",
+    "number": 16,
+    "title": "Singapore MHA · Camera trial",
+    "description": "Singapore Ministry of Home Affairs, automated traffic enforcement camera trial and implementation plans (source listed in requested structure): https://www.mha.gov.sg/media-room/newsroom/key-insights-from-the-traffic-violation-enforcement-camera-trial-and-implementation-plans/",
+    "url": "https://www.mha.gov.sg/media-room/newsroom/key-insights-from-the-traffic-violation-enforcement-camera-trial-and-implementation-plans/",
+    "localUrl": null,
+    "group": "International approaches"
+  },
+  {
+    "id": "s17",
+    "number": 17,
+    "title": "Singapore Police Force · Annual report 2024",
+    "description": "Singapore Police Force, Annual Road Traffic Situation 2024: https://www.police.gov.sg/-/media/SPF/Files/Publications/PDF/SPF-Annual-Report-2024.pdf",
+    "url": "https://www.police.gov.sg/-/media/SPF/Files/Publications/PDF/SPF-Annual-Report-2024.pdf",
+    "localUrl": null,
+    "group": "International approaches"
+  },
+  {
+    "id": "s18",
+    "number": 18,
+    "title": "UK Parliament · Average-speed cameras",
+    "description": "UK Parliament, written answer on average-speed-camera evaluation, 5 December 2025: https://questions-statements.parliament.uk/written-questions/detail/2025-12-01/95731/",
+    "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-01/95731/",
+    "localUrl": null,
+    "group": "International approaches"
+  },
+  {
+    "id": "s19",
+    "number": 19,
+    "title": "Sweden · Vision Zero research",
+    "description": "Sweden, Vision Zero overview and research study linked in requested structure: https://www.mdpi.com/2412-3811/10/12/329",
+    "url": "https://www.mdpi.com/2412-3811/10/12/329",
+    "localUrl": null,
+    "group": "International approaches"
+  },
+  {
+    "id": "s20",
+    "number": 20,
+    "title": "Netherlands · Sustainable Safety",
+    "description": "Netherlands, Sustainable Safety framework: https://sustainablesafety.nl/",
+    "url": "https://sustainablesafety.nl/",
+    "localUrl": null,
+    "group": "International approaches"
+  },
+  {
+    "id": "s21",
+    "number": 21,
+    "title": "Transport Victoria · Graduated licensing",
+    "description": "Transport Victoria, Graduated Licensing System: https://transport.vic.gov.au/road-and-active-transport/road-rules-and-safety/victorias-graduated-licensing-system",
+    "url": "https://transport.vic.gov.au/road-and-active-transport/road-rules-and-safety/victorias-graduated-licensing-system",
+    "localUrl": null,
+    "group": "International approaches"
+  }
+]

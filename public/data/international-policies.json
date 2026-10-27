@@ -1,0 +1,124 @@
+[
+  {
+    "id": "viet-nam",
+    "country": "Viet Nam",
+    "code": "VN",
+    "title": "Universal helmet protection",
+    "icon": "ShieldCheck",
+    "summary": "A comprehensive helmet law paired with sustained enforcement and public communication.",
+    "description": "The nationwide requirement for riders and passengers on all roads took effect on 15 December 2007. Penalties increased ten-fold, alongside communication and police mobilization.",
+    "evidence": "A before-and-after study followed patients admitted to 20 hospitals during the first three months after the law.",
+    "outcomes": [
+      {
+        "value": "16%",
+        "label": "lower head-injury risk"
+      },
+      {
+        "value": "18%",
+        "label": "lower road-traffic death risk"
+      }
+    ],
+    "limitation": "Short follow-up, selected hospitals and provinces, no randomized comparison, and simultaneous policy changes limit causal interpretation.",
+    "application": "Enforce correctly fastened, certified helmets for rider and pillion. Pair enforcement with affordability, quality control and public communication.",
+    "reportSection": "5.2; 6",
+    "sourceIds": [
+      "s14",
+      "s15"
+    ]
+  },
+  {
+    "id": "singapore",
+    "country": "Singapore",
+    "code": "SG",
+    "title": "Automated enforcement",
+    "icon": "Camera",
+    "summary": "Camera enforcement and transparent reporting can support consistent road-safety delivery.",
+    "description": "Singapore combines automated and police enforcement with public annual traffic reporting. The cited camera source describes a trial and implementation plans.",
+    "evidence": "The report describes an operational model, not an isolated estimate of cameras’ causal effect on national fatalities.",
+    "outcomes": [],
+    "limitation": "National trends alone do not isolate camera impact. The report notes fatalities rose from 136 in 2023 to 142 in 2024 despite enforcement.",
+    "application": "Pilot cameras on high-risk corridors; publish speed and casualty outcomes, maintain calibration and provide fair siting, privacy safeguards and due process.",
+    "reportSection": "5.3; 6",
+    "sourceIds": [
+      "s16",
+      "s17"
+    ]
+  },
+  {
+    "id": "sweden",
+    "country": "Sweden",
+    "code": "SE",
+    "title": "Vision Zero",
+    "icon": "HeartHandshake",
+    "summary": "Place human life and physical vulnerability at the centre of system design.",
+    "description": "Vision Zero expects human error and makes preventing death and serious injury a shared responsibility, with interim targets and sustained delivery.",
+    "evidence": "The report presents a long-term national framework and governance approach.",
+    "outcomes": [],
+    "limitation": "No numerical impact estimate is provided in this report. Long-term national outcomes cannot be promised from a short project.",
+    "application": "Develop national and state death and serious-injury targets, safer speeds and forgiving roads, backed by funding and accountable agencies.",
+    "reportSection": "6; 6.1",
+    "sourceIds": [
+      "s19"
+    ]
+  },
+  {
+    "id": "netherlands",
+    "country": "Netherlands",
+    "code": "NL",
+    "title": "Sustainable Safety",
+    "icon": "Route",
+    "summary": "Make road function, design and use work together for safer everyday journeys.",
+    "description": "A functional road hierarchy and self-explaining infrastructure separate incompatible traffic where practical and protect vulnerable road users.",
+    "evidence": "The report describes a framework for road design, not a quantified intervention evaluation.",
+    "outcomes": [],
+    "limitation": "No numerical impact estimate is provided in this report. Design must fit India’s mixed traffic, informal access and varied road ownership.",
+    "application": "Classify roads by function and redesign dangerous mixing at high-speed roads, settlement entries, crossings and junctions.",
+    "reportSection": "6",
+    "sourceIds": [
+      "s20"
+    ]
+  },
+  {
+    "id": "united-kingdom",
+    "country": "United Kingdom",
+    "code": "UK",
+    "title": "Average-speed cameras",
+    "icon": "Gauge",
+    "summary": "Encourage sustained speed compliance across a corridor rather than at one point.",
+    "description": "Average-speed enforcement assesses compliance across a road section. The cited UK parliamentary answer summarizes a 2016 evaluation.",
+    "evidence": "An observational evaluation of 50 sites adjusted for regression to the mean and national casualty trends.",
+    "outcomes": [
+      {
+        "value": "36.4%",
+        "label": "fewer fatal & serious collisions"
+      },
+      {
+        "value": "16%",
+        "label": "fewer injury collisions"
+      }
+    ],
+    "limitation": "Results are from sites in Great Britain. They are not predicted reductions for India and remain observational evidence.",
+    "application": "Pilot suitable expressways and high-risk corridors with baseline and control data, transparent siting, lawful data handling and independent evaluation.",
+    "reportSection": "5.4; 6",
+    "sourceIds": [
+      "s18"
+    ]
+  },
+  {
+    "id": "australia",
+    "country": "Australia",
+    "code": "AU",
+    "title": "Staged driver licensing",
+    "icon": "ContactRound",
+    "summary": "Build novice drivers’ experience through supervised learning and staged privileges.",
+    "description": "Victoria’s Graduated Driver Licensing system provides an operational example of supervised learning and limits on higher-risk driving situations.",
+    "evidence": "The report describes the approach and its potential application; it does not supply a numerical evaluation.",
+    "outcomes": [],
+    "limitation": "No numerical impact estimate is provided in this report. Reliable supervision, licensing and enforcement are needed; access barriers must be assessed.",
+    "application": "Consider staged licensing and risk limits for novice drivers, while protecting access for rural and low-income learners.",
+    "reportSection": "6",
+    "sourceIds": [
+      "s21"
+    ]
+  }
+]

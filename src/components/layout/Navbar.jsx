@@ -1,0 +1,8 @@
+import { useState } from 'react';
+import { Link, NavLink } from 'react-router-dom';
+import { navigation } from '../../utils/navigation';
+import Icon from '../ui/Icon';
+export default function Navbar() {
+  const [open, setOpen] = useState(false);
+  return <header className="site-header"><a className="skip-link" href="#main" onClick={event => { event.preventDefault(); const main = document.getElementById('main'); main?.scrollIntoView({ block: 'start' }); main?.focus({ preventScroll: true }); }}>Skip to content</a><div className="container header-inner"><Link className="brand" to="/" onClick={() => setOpen(false)} aria-label="Road Safety India, overview"><span>Road Safety <em>India</em><i /></span><small>SAFER ROADS. BRIGHTER TOMORROW.</small></Link><nav className="desktop-nav" aria-label="Main navigation">{navigation.map(item => <NavLink key={item.to} to={item.to} end={item.to === '/'}>{item.label}</NavLink>)}</nav><Link className="source-shortcut" to="/sources" aria-label="Find sources and definitions"><Icon name="BookOpen" size={23} /></Link><button className="menu-button" aria-label={open ? 'Close navigation' : 'Open navigation'} aria-expanded={open} aria-controls="mobile-navigation" onClick={() => setOpen(!open)}><Icon name={open ? 'X' : 'Menu'} /></button></div><nav className={`mobile-nav ${open ? 'is-open' : ''}`} id="mobile-navigation" aria-label="Mobile navigation" hidden={!open} onKeyDown={event => { if (event.key === 'Escape') { setOpen(false); document.querySelector('.menu-button')?.focus(); } }}>{navigation.map(item => <NavLink key={item.to} to={item.to} end={item.to === '/'} onClick={() => setOpen(false)}>{item.label}<Icon name="ArrowUpRight" size={18} /></NavLink>)}</nav></header>;
+}

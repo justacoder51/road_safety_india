@@ -1,0 +1,32 @@
+[
+  {
+    "term": "Police-reported data",
+    "definition": "Administrative counts from state and Union Territory police submissions. Reporting, follow-up and revisions affect coverage.",
+    "reportSection": "2.1; 2.4"
+  },
+  {
+    "term": "WHO modeled estimates",
+    "definition": "Statistical estimates informed by available data. Keep them distinct from police counts, and preserve the reference year and uncertainty.",
+    "reportSection": "2.4"
+  },
+  {
+    "term": "Fatality",
+    "definition": "The time window after a crash matters. International systems often use 30 days; the report does not establish a verified definition for every Indian series.",
+    "reportSection": "9"
+  },
+  {
+    "term": "Serious injury",
+    "definition": "All reported injuries, hospital admissions and clinically defined serious injuries are not interchangeable. The headline injury count includes reported injuries.",
+    "reportSection": "1; 9"
+  },
+  {
+    "term": "Counts and rates",
+    "definition": "A population rate, vehicle rate and vehicle-kilometre rate answer different questions. Every rate needs a numerator, denominator, year and source.",
+    "reportSection": "3; 9"
+  },
+  {
+    "term": "Policy effectiveness",
+    "definition": "Implementation measures activity; observed outcomes show change; causal evaluation asks what changed because of an intervention. A before-and-after trend alone cannot prove causation.",
+    "reportSection": "5.5; 9"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "near",
+    "name": "Near term",
+    "horizon": "12–24 months",
+    "title": "Target risks. Improve delivery.",
+    "icon": "Target",
+    "items": [
+      {
+        "title": "Publish a unified, versioned data dashboard",
+        "description": "Reconcile MoRTH, police, health and transport records where feasible; publish revisions, definitions, reporting coverage, 30-day fatality rules, serious-injury definitions and downloadable data."
+      },
+      {
+        "title": "Target proven risk factors",
+        "description": "Prioritize speed management, universal helmet use including pillion riders, seat-belt use in all seats, impaired-driving enforcement and safe crossing access around schools, transit and markets."
+      },
+      {
+        "title": "Treat high-risk locations",
+        "description": "Use transparent criteria to select black spots, junctions and corridors; publish before/after engineering audits and outcome measures."
+      },
+      {
+        "title": "Set up independent evaluation",
+        "description": "Every major pilot should state its theory of change, baseline, comparison strategy, equity safeguards and outcome indicators before launch."
+      },
+      {
+        "title": "Strengthen emergency response",
+        "description": "Map ambulance coverage and trauma capacity against high-fatality corridors; measure response times and survival, not just vehicles deployed."
+      }
+    ],
+    "reportSection": "7"
+  },
+  {
+    "id": "medium",
+    "name": "Medium term",
+    "horizon": "2–5 years",
+    "title": "Build safer networks.",
+    "icon": "Route",
+    "items": [
+      {
+        "title": "Make safe speeds a network policy",
+        "description": "Define road classes, speed-limit rules and design standards that account for pedestrians and two-wheelers; scale proven camera systems with due process."
+      },
+      {
+        "title": "Deliver safe-system street design",
+        "description": "Require safety audits for new construction and major upgrades, prioritize retrofits on existing roads, and fund footpaths and crossings as core road infrastructure."
+      },
+      {
+        "title": "Improve vehicle and fleet safety",
+        "description": "Use procurement, inspection and fleet rules to lift safety for buses, trucks, taxis and commercial two-wheelers; publish compliance outcomes."
+      },
+      {
+        "title": "Build state accountability",
+        "description": "Set state targets, annual budgets and district dashboards; link technical support to measurable delivery while accounting for exposure and reporting quality."
+      },
+      {
+        "title": "Use novice-driver protections",
+        "description": "Pilot staged licensing and supervision where administrative capacity exists; evaluate effects and access barriers before broader rollout."
+      }
+    ],
+    "reportSection": "7"
+  },
+  {
+    "id": "long",
+    "name": "Long term",
+    "horizon": "5–10 years",
+    "title": "Embed the Safe System.",
+    "icon": "Settings2",
+    "items": [
+      {
+        "title": "Embed the Safe System",
+        "description": "Embed a Vision Zero / Safe System principle in national and state transport planning: deaths and serious injuries are preventable and the system must account for human vulnerability."
+      },
+      {
+        "title": "Align land use and mobility",
+        "description": "Align land use, public transport, walking, cycling and road design to reduce exposure to high-speed conflict."
+      },
+      {
+        "title": "Continue evaluation",
+        "description": "Continue longitudinal evaluation and update interventions as evidence and travel patterns change."
+      }
+    ],
+    "reportSection": "7"
+  }
+]

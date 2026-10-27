@@ -1,0 +1,30 @@
+{
+  "year": 2024,
+  "unit": "Share of fatalities (%)",
+  "partial": true,
+  "note": "Selected categories from the report, not a complete breakdown. These shares do not measure exposure or individual crash risk.",
+  "reportSection": "2.2",
+  "sourceIds": [
+    "s1"
+  ],
+  "items": [
+    {
+      "name": "Two-wheeler users",
+      "value": 46.2,
+      "icon": "Bike",
+      "color": "#006575"
+    },
+    {
+      "name": "Pedestrians",
+      "value": 20.6,
+      "icon": "Footprints",
+      "color": "#ad7717"
+    },
+    {
+      "name": "Light-vehicle occupants",
+      "value": 12.4,
+      "icon": "Car",
+      "color": "#51697f"
+    }
+  ]
+}

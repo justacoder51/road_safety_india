@@ -1,0 +1,46 @@
+{
+  "date": "27 October 2026",
+  "reportSha256": "14ff1cf2e4601d420888f89fba01b83a0b5b3d425761460132e08480b3120672",
+  "checks": [
+    {
+      "check": "Report fingerprint matches approved content",
+      "status": "Passed"
+    },
+    {
+      "check": "2024 headline values and method",
+      "status": "Passed"
+    },
+    {
+      "check": "Complete reported trend: 2018–2024, with no added year",
+      "status": "Passed"
+    },
+    {
+      "check": "Selected road users remain partial and unnormalized",
+      "status": "Passed"
+    },
+    {
+      "check": "Road classes match report and sum to 2024 deaths",
+      "status": "Passed"
+    },
+    {
+      "check": "WHO estimate, range and rate stay separate in 2021",
+      "status": "Passed"
+    },
+    {
+      "check": "Six policies with evidence, caveats and traceable sources",
+      "status": "Passed"
+    },
+    {
+      "check": "All 13 action recommendations preserve report wording",
+      "status": "Passed"
+    },
+    {
+      "check": "21 unique sources; URLs exist verbatim in report; local documents exist",
+      "status": "Passed"
+    },
+    {
+      "check": "Only approved runtime dependencies; production commands exist",
+      "status": "Passed"
+    }
+  ]
+}

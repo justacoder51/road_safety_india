@@ -1,0 +1,37 @@
+[
+  {
+    "id": "law",
+    "title": "Motor Vehicles (Amendment) Act 2019",
+    "icon": "Scale",
+    "summary": "Higher penalties and mechanisms for electronic monitoring, recalls, Good Samaritans and a National Road Safety Board framework.",
+    "evidence": "A March 2020 parliamentary answer said the Ministry had not conducted a specific impact study. One local autopsy-based study cannot establish a national causal effect.",
+    "reportSection": "4.1; 5.1",
+    "sourceIds": [
+      "s9",
+      "s10"
+    ]
+  },
+  {
+    "id": "engineering",
+    "title": "Road engineering & safety programmes",
+    "icon": "Construction",
+    "summary": "The National Road Safety Policy and MoRTH programmes address safer infrastructure, audits, black-spot treatment, vehicle standards and emergency response.",
+    "evidence": "Programme existence does not demonstrate reduced deaths. Follow completed treatments with safety audits and outcome evaluation.",
+    "reportSection": "4.1; 4.3",
+    "sourceIds": [
+      "s12",
+      "s13"
+    ]
+  },
+  {
+    "id": "enforcement",
+    "title": "eChallan & enforcement",
+    "icon": "ClipboardCheck",
+    "summary": "Electronic enforcement and payment systems support implementation across traffic rules.",
+    "evidence": "Challans are an activity measure. Pair them with speeds, helmet and belt use, injuries, fatalities and exposure to evaluate safety.",
+    "reportSection": "4.2",
+    "sourceIds": [
+      "s11"
+    ]
+  }
+]
