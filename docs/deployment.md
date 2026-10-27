@@ -1,12 +1,20 @@
 # GitHub Pages deployment
 
-Status: GitHub-only hosting requested. Local Pages configuration prepared; push and live deployment pending verification.
+Status: **LIVE on GitHub Pages**, verified 27 October 2026.
+
+Website: https://justacoder51.github.io/road_safety_india/
+
+Repository: https://github.com/justacoder51/road_safety_india
+
+Published application commit: 8b76ce119a5dc912bb7ac80968650da8021754c4
+
+Successful workflow: https://github.com/justacoder51/road_safety_india/actions/runs/40494145035
 
 ## Account and repository
 
 - Confirmed account: `justacoder51`.
 - Existing public repository: https://github.com/justacoder51/road_safety_india
-- Planned website location: https://justacoder51.github.io/road_safety_india/
+- Live website location: https://justacoder51.github.io/road_safety_india/
 - Host: GitHub Pages. Vercel is not required.
 - Project root: the application folder.
 
@@ -43,3 +51,11 @@ After publication, record the exact Git commit and successful Actions run. Check
 - Vite's official GitHub Pages deployment guide: https://vite.dev/guide/static-deploy.html#github-pages
 
 These are software-hosting references only; no road-safety information was added to the content datasets.
+
+## Completed verification
+
+GitHub's verify-and-build and publish jobs both succeeded. The first publishing attempt reached Pages before it was enabled; enabling workflow-based Pages and retrying the publishing job resolved that setup race.
+
+All five live hash routes were opened and refreshed; India Data rendered all three charts. Live source search passed. The production verifier passed 17 HTTP, entry-asset, JSON, report and PDF checks against the public URL. Browser warnings/errors were empty. Evidence is in docs/verification/github-pages-live.json and production-checks.json.
+
+Later pushes to main publish website changes automatically. The documentation-only completion record uses [skip ci] because it changes no application or deployment code.

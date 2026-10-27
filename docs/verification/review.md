@@ -40,4 +40,6 @@ Interaction screenshots: [expanded policies](interactions/policies-expanded-mobi
 - [ ] Mobile navigation, source search and chart tables are usable.
 - [ ] Review existing content limitations before any public launch.
 
-GitHub publication and Vercel deployment remain pending; local production verification does not imply a live deployment.
+Published on GitHub Pages and verified: https://justacoder51.github.io/road_safety_india/
+
+[Successful workflow](https://github.com/justacoder51/road_safety_india/actions/runs/40494145035) · [Live browser checks](github-pages-live.json) · [Live preview](github-pages-live.png). The user changed hosting from Vercel to GitHub Pages.

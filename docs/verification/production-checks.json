@@ -1,9 +1,9 @@
 {
   "date": "27 October 2026",
-  "base": "http://127.0.0.1:4173/road_safety_india",
+  "base": "https://justacoder51.github.io/road_safety_india",
   "checks": [
     {
-      "check": "Production index served at deployment base: http://127.0.0.1:4173/road_safety_india/",
+      "check": "Production index served at deployment base: https://justacoder51.github.io/road_safety_india/",
       "status": "Passed"
     },
     {

@@ -13,5 +13,11 @@
   "dataChecks": 10,
   "numericalClaimsTraced": 31,
   "userAcceptance": "Not reviewed",
-  "deployment": "Prepared; not published"
+  "deployment": "Live on GitHub Pages",
+  "site": "https://justacoder51.github.io/road_safety_india/",
+  "repository": "https://github.com/justacoder51/road_safety_india",
+  "publishedApplicationCommit": "8b76ce119a5dc912bb7ac80968650da8021754c4",
+  "workflow": "https://github.com/justacoder51/road_safety_india/actions/runs/40494145035",
+  "liveProductionChecks": 17,
+  "liveRoutesVerified": 5
 }

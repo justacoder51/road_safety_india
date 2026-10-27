@@ -1,0 +1,40 @@
+{
+  "site": "https://justacoder51.github.io/road_safety_india/",
+  "checks": [
+    {
+      "page": "Overview",
+      "url": "https://justacoder51.github.io/road_safety_india/#/",
+      "refreshPassed": true,
+      "charts": 0
+    },
+    {
+      "page": "India Data",
+      "url": "https://justacoder51.github.io/road_safety_india/#/india-data",
+      "refreshPassed": true,
+      "charts": 3
+    },
+    {
+      "page": "Global Lessons",
+      "url": "https://justacoder51.github.io/road_safety_india/#/global-lessons",
+      "refreshPassed": true,
+      "charts": 0
+    },
+    {
+      "page": "Action Plan",
+      "url": "https://justacoder51.github.io/road_safety_india/#/action-plan",
+      "refreshPassed": true,
+      "charts": 0
+    },
+    {
+      "page": "Sources",
+      "url": "https://justacoder51.github.io/road_safety_india/#/sources",
+      "refreshPassed": true,
+      "charts": 0
+    },
+    {
+      "check": "Live source search filters results",
+      "passed": true
+    }
+  ],
+  "console": []
+}

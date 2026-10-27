@@ -62,3 +62,12 @@ The user requested online hosting through their GitHub account. Added a GitHub v
 ## GitHub-only hosting update
 
 The user requested GitHub-only hosting. Confirmed account justacoder51 and existing public repository road_safety_india. Replaced BrowserRouter with HashRouter, made local file paths respect Vite base, and changed section/skip links for hash routing. Added a verified build/publish workflow for GitHub Pages. Vercel is no longer the deployment target. See deployment.md for current status.
+
+## GitHub Pages publication completed
+
+Live: https://justacoder51.github.io/road_safety_india/
+Repository: https://github.com/justacoder51/road_safety_india
+Application commit: 8b76ce119a5dc912bb7ac80968650da8021754c4
+Workflow: https://github.com/justacoder51/road_safety_india/actions/runs/40494145035
+
+Verified GitHub build/data checks and publication succeeded. Resolved initial Pages enablement race by retrying the failed publishing job after Pages was enabled. All five live routes refreshed, charts and source search worked, and 17 production checks passed for live assets, JSON and supplied documents. No final browser errors or warnings. The user no longer needs Vercel; GitHub Pages is the requested hosting target. Earlier pending-deployment records describe the prior local handoff.
